@@ -1,5 +1,5 @@
 
 module.exports = {
-    config : require("./config"),
+    config : require("./server-config"),
     logger: require("./logger-config")
 }
