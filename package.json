@@ -1,0 +1,19 @@
+{
+  "name": "airline",
+  "version": "1.0.0",
+  "description": "API endpoints for airplane ticket booking website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit ",
+    "dev": "nodemon index.js"
+  },
+  "author": "Ashish sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "http-status-codes": "^2.3.0",
+    "nodemon": "^3.1.10",
+    "winston": "^3.17.0"
+  }
+}
